@@ -19,8 +19,8 @@ I’m a Canadian-French Senior Web Engineer with +10 years of experience. I form
 </p>
 
 <p>
-🔭 I’m currently working on a ChatGPT themes plugin <br>
-🌱 I’m currently learning ML with Python, GPT agents & LLMs <br>
+🔭 I’m currently working on some Raycast Extensions <br>
+🌱 I’m also learning ML with Python, GPT agents & other LLMs <br>
 👯 I’m looking to collaborate on some Generative AI web UI kits <br>
 🤔 I’m looking for mentoring in the North America tech scene <br>
 </p>
