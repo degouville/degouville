@@ -19,10 +19,10 @@ I’m a Canadian-French Senior Web Engineer with +10 years of experience. I form
 </p>
 
 <p>
-🔭 I’m currently working on some Raycast Extensions <br>
-🌱 I’m also learning ML with Python, GPT agents & other LLMs <br>
-👯 I’m looking to collaborate on some Generative AI web UI kits <br>
-🤔 I’m looking for mentoring in the North America tech scene <br>
+🔭 Currently working on some Raycast Extensions <br>
+🌱 Also learning ML with Python, GPT agents & other LLMs <br>
+👯 Looking to collaborate on some Generative AI web UI kits <br>
+🤔 Looking for mentoring in the North America tech scene <br>
 </p>
 
  
