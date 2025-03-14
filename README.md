@@ -1,9 +1,10 @@
 <header>
   <h1>Hi 👋, I'am Mathieu</h1>
 </header>
-<img align="right" src="https://media2.giphy.com/media/cFdHXXm5GhJsc/giphy.gif?width=50">
+<img align="right" src="https://media2.giphy.com/media/cFdHXXm5GhJsc/giphy.gif?width=50"> 
 
-I’m a Canadian-French Senior Web Engineer with +10 years of experience. I formerly worked on significant projects for prestigious french companies such as [Louis Vuitton], [Renault], and [Eurosport].
+I’m a Canadian-French Senior Product Engineer with +12 YoE.
+<br> I formerly worked on significant projects for prestigious french companies such as [Louis Vuitton], [Renault], and [Eurosport].
 
 #### You can find me here 🔗
 <p>
@@ -14,9 +15,8 @@ I’m a Canadian-French Senior Web Engineer with +10 years of experience. I form
 
 <p>
 🔭 Currently working on some Raycast Extensions <br>
-🌱 Also learning ML with Python, GPT agents & other LLMs <br>
-👯 Looking to collaborate on some Generative AI web UI kits <br>
-🤔 Looking for mentoring in the North America tech scene <br>
+👯 Looking to collaborate on Gen AI products <br>
+🌱 Also learning Elixir & Phoenix
 </p>
 
  
