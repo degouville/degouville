@@ -14,7 +14,7 @@ I’m a Canadian-French Senior Product Engineer with +12 YoE.
 </p>
 
 <p>
-🔭 Currently working on some Raycast Extensions <br>
+🔭 Currently working on some Raycast Extensions, MCP Servers <br>
 👯 Looking to collaborate on Gen AI products <br>
 🌱 Also learning Elixir & Phoenix
 </p>
