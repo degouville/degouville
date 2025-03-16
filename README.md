@@ -3,7 +3,7 @@
 </header>
 <img align="right" src="https://media2.giphy.com/media/cFdHXXm5GhJsc/giphy.gif?width=50"> 
 
-I’m a Canadian-French Senior Product Engineer with +12 YoE.
+I’m a Canadian-French Senior Product Engineer with +12 YoE ↯
 <br> I formerly worked on significant projects for prestigious french companies such as [Louis Vuitton], [Renault], and [Eurosport].
 
 #### You can find me here 🔗
