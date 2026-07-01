@@ -37,6 +37,15 @@ I’m a Canadian-French Senior Product Engineer with +12 YoE ↯
 
 
 [![](https://activity-graph.herokuapp.com/graph?username=degouville&theme=react-dark&hide_border=true)](https://github.com/degouville)
+
+<div align="center">
+  <a href="https://commit-history.com/degouville">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/degouville?theme=dark" />
+      <img alt="degouville's commit history" src="https://commit-history.com/embed/degouville" />
+    </picture>
+  </a>
+</div>
  
 
 [Louis Vuitton]: https://louisvuitton.com/
